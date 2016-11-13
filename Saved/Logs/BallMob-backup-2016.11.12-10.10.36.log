@@ -1,0 +1,1275 @@
+﻿Log file open, 11/11/16 16:46:24
+LogInit:Display: Running engine for game: BallMob
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-23666396) SRandInit(-23666396).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.095209
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.13-CL-3172292
+LogInit: Engine Version: 4.13.2-3172292+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3172292
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Oct 24 2016 14:29:06
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.11.12-00.46.24:490][  0]LogInit: Selected Device Profile: [Windows]
+[2016.11.12-00.46.24:490][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.11.12-00.46.24:496][  0]LogInit: Computer: FLO
+[2016.11.12-00.46.24:496][  0]LogInit: User: FlorCristalEspino
+[2016.11.12-00.46.24:496][  0]LogInit: CPU Page size=65536, Cores=4
+[2016.11.12-00.46.24:496][  0]LogInit: High frequency timer resolution =3.984653 MHz
+[2016.11.12-00.46.24:496][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2016.11.12-00.46.24:496][  0]LogMemory: Platform Memory Stats for Windows
+[2016.11.12-00.46.24:497][  0]LogMemory: Process Physical Memory: 255.64 MB used, 255.64 MB peak
+[2016.11.12-00.46.24:497][  0]LogMemory: Process Virtual Memory: 260.06 MB used, 260.06 MB peak
+[2016.11.12-00.46.24:497][  0]LogMemory: Physical Memory: 6105.44 MB used, 16066.03 MB total
+[2016.11.12-00.46.24:497][  0]LogMemory: Virtual Memory: 623.21 MB used, 134217728.00 MB total
+[2016.11.12-00.46.24:524][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2016.11.12-00.46.25:027][  0]LogD3D11RHI: D3D11 adapters:
+[2016.11.12-00.46.25:445][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2016.11.12-00.46.25:445][  0]LogD3D11RHI:       4059/0/8033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2016.11.12-00.46.25:452][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2016.11.12-00.46.25:452][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2016.11.12-00.46.25:453][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2016.11.12-00.46.25:453][  0]LogD3D11RHI:       0/0/8033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2016.11.12-00.46.25:453][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.11.12-00.46.25:457][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.11.12-00.46.25:457][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2016.11.12-00.46.25:457][  0]LogWindows: EnumDisplayDevices:
+[2016.11.12-00.46.25:458][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2016.11.12-00.46.25:458][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2016.11.12-00.46.25:458][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2016.11.12-00.46.25:458][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2016.11.12-00.46.25:458][  0]LogWindows:    4. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2016.11.12-00.46.25:458][  0]LogWindows:    5. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2016.11.12-00.46.25:459][  0]LogWindows:    6. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2016.11.12-00.46.25:459][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2016.11.12-00.46.25:459][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2016.11.12-00.46.25:459][  0]LogD3D11RHI:   Driver Version: 372.70 (internal:21.21.13.7270, unified:372.70)
+[2016.11.12-00.46.25:459][  0]LogD3D11RHI:      Driver Date: 8-25-2016
+[2016.11.12-00.46.25:459][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2016.11.12-00.46.25:840][  0]LogD3D11RHI: Async texture creation enabled
+[2016.11.12-00.46.25:883][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2016.11.12-00.46.25:883][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/Flor Cristal Espino/Documents/GitHub/MobBall/Intermediate/Shaders/WorkingDirectory/6476/).
+[2016.11.12-00.46.25:883][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/FLORCR~1/AppData/Local/Temp/UnrealShaderWorkingDir/F65C8EC649AA49A04B0F0EB367F18935/'.
+[2016.11.12-00.46.25:883][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.11.12-00.46.26:652][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.11.12-00.46.26:659][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.11.12-00.46.26:666][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.11.12-00.46.26:674][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.11.12-00.46.26:680][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.11.12-00.46.26:686][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.11.12-00.46.26:691][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.11.12-00.46.26:696][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.11.12-00.46.26:701][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.11.12-00.46.26:707][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.11.12-00.46.26:712][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.11.12-00.46.26:722][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.11.12-00.46.26:722][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.11.12-00.46.26:723][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.11.12-00.46.26:742][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.11.12-00.46.26:746][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.11.12-00.46.26:752][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2016.11.12-00.46.26:758][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.11.12-00.46.26:771][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.11.12-00.46.26:784][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.11.12-00.46.26:784][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.11.12-00.46.26:878][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.11.12-00.46.26:926][  0]LogDerivedDataCache: Loaded boot cache 0.05s 63MB C:/Users/Flor Cristal Espino/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.11.12-00.46.26:926][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Flor Cristal Espino/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2016.11.12-00.46.26:926][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Flor Cristal Espino/Documents/GitHub/MobBall/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.11.12-00.46.26:926][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.11.12-00.46.26:926][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Flor Cristal Espino/Documents/GitHub/MobBall/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.11.12-00.46.26:926][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.11.12-00.46.26:938][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.11.12-00.46.26:950][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Flor Cristal Espino/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.11.12-00.46.27:111][  0]LogInit: Selected Device Profile: [Windows]
+[2016.11.12-00.46.27:113][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.11.12-00.46.27:186][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2016.11.12-00.46.27:186][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.11.12-00.46.27:186][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2016.11.12-00.46.27:240][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2016.11.12-00.46.27:448][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: ballmob, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 1614579483
+[2016.11.12-00.46.27:482][  0]LogAssetRegistry: FAssetRegistry took 0.0216 seconds to start up
+[2016.11.12-00.46.27:505][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.019877 seconds
+[2016.11.12-00.46.27:510][  0]LogUObjectArray: 29778 objects as part of root set at end of initial load.
+[2016.11.12-00.46.27:510][  0]LogUObjectAllocator: 6125456 out of 0 bytes used by permanent object pool.
+[2016.11.12-00.46.27:510][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.11.12-00.46.27:518][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.11.12-00.46.27:689][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.11.12-00.46.27:689][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.11.12-00.46.28:394][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2016.11.12-00.46.28:416][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.11.12-00.46.28:658][  0]SourceControl: Info Source control is disabled
+[2016.11.12-00.46.28:659][  0]SourceControl: Info Source control is disabled
+[2016.11.12-00.46.28:670][  0]SourceControl: Info Source control is disabled
+[2016.11.12-00.46.28:680][  0]SourceControl: Info Source control is disabled
+[2016.11.12-00.46.29:076][  0]LogEngine: Initializing Engine...
+[2016.11.12-00.46.29:076][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2016.11.12-00.46.29:177][  0]LogAIModule: Creating AISystem for world Untitled
+[2016.11.12-00.46.29:193][  0]LogInit: XAudio2 using 'Speakers (5- Logitech USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.12-00.46.29:209][  0]LogInit: FAudioDevice initialized.
+[2016.11.12-00.46.29:234][  0]LogDerivedDataCache: Saved boot cache 0.02s 63MB C:/Users/Flor Cristal Espino/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.11.12-00.46.29:240][  0]LogInit: Texture streaming: Enabled
+[2016.11.12-00.46.29:265][  0]LogInit: Transaction tracking system initialized
+[2016.11.12-00.46.29:290][  0]BlueprintLog: New page: Editor Load
+[2016.11.12-00.46.29:390][  0]LocalizationService: Info Localization service is disabled
+[2016.11.12-00.46.29:471][  0]LogConsoleResponse:Display: 
+[2016.11.12-00.46.29:557][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2016.11.12-00.46.29:557][  0]LogCook:Display: Mobile HDR setting 1
+[2016.11.12-00.46.29:733][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Flor Cristal Espino/Documents/GitHub/MobBall/Content/' took 0.01s
+[2016.11.12-00.46.29:733][  0]SourceControl: Info Source control is disabled
+[2016.11.12-00.46.29:733][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Flor Cristal Espino/Documents/GitHub/MobBall/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.11.12-00.46.29:733][  0]LightingResults: New page: Lighting Build
+[2016.11.12-00.46.29:736][  0]MapCheck: New page: Map Check
+[2016.11.12-00.46.29:736][  0]LightingResults: New page: Lighting Build
+[2016.11.12-00.46.29:914][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2016.11.12-00.46.29:919][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.11.12-00.46.29:920][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.11.12-00.46.29:994][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 73.812ms to complete.
+[2016.11.12-00.46.29:994][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.261
+[2016.11.12-00.46.30:085][  0]LogCollectionManager: Loaded 0 collections in 0.002237 seconds
+[2016.11.12-00.46.30:123][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Flor Cristal Espino/Documents/GitHub/MobBall/Saved/Collections/' took 0.01s
+[2016.11.12-00.46.30:123][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Flor Cristal Espino/Documents/GitHub/MobBall/Content/Developers/FlorCristalEspino/Collections/' took 0.01s
+[2016.11.12-00.46.30:123][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Flor Cristal Espino/Documents/GitHub/MobBall/Content/Collections/' took 0.01s
+[2016.11.12-00.46.30:123][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2016.11.12-00.46.30:130][  0]LogContentBrowser: Native class hierarchy populated in 0.0060 seconds. Added 2141 classes and 415 folders.
+[2016.11.12-00.46.30:133][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2016.11.12-00.46.30:133][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2016.11.12-00.46.30:134][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0004 seconds. Added 12 classes and 0 folders.
+[2016.11.12-00.46.30:139][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2016.11.12-00.46.30:186][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2016.11.12-00.46.30:227][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2016.11.12-00.46.30:241][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.11.12-00.46.30:248][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.11.12-00.46.30:279][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2016.11.12-00.46.30:279][  0]LogLoad: (Engine Initialization) Total time: 6.78 seconds
+[2016.11.12-00.46.30:279][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.05 seconds
+[2016.11.12-00.46.30:279][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2016.11.12-00.46.30:279][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2016.11.12-00.46.30:294][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.12-00.46.30:294][  0]LogOcInput: OculusInput pre-init called
+[2016.11.12-00.46.30:316][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2016.11.12-00.46.30:434][  0]LogRenderer: Reallocating scene render targets to support 1208x576 (Frame:2).
+[2016.11.12-00.46.30:483][  1]LogAssetRegistry: Asset discovery search completed in 3.0231 seconds
+[2016.11.12-00.46.30:483][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2016.11.12-00.46.30:483][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000022 seconds (updated 0 objects)
+[2016.11.12-00.46.57:392][197]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2016.11.12-00.46.57:392][197]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-00.46.57:393][197]PIE: New page: PIE session: Minimal_Default (Nov 11, 2016, 8:46:57 AM)
+[2016.11.12-00.46.57:393][197]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2016.11.12-00.46.57:399][197]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006054s)
+[2016.11.12-00.46.57:399][197]LogAIModule: Creating AISystem for world Minimal_Default
+[2016.11.12-00.46.57:400][197]LogPlayLevel: PIE: World Init took: (0.000755s)
+[2016.11.12-00.46.57:400][197]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.007004s)
+[2016.11.12-00.46.57:421][197]LogInit: XAudio2 using 'Speakers (5- Logitech USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.12-00.46.57:427][197]LogInit: FAudioDevice initialized.
+[2016.11.12-00.46.57:466][197]LogWorld: Game class is 'GameMode'
+[2016.11.12-00.46.57:469][197]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2016.11.11-16.46.57
+[2016.11.12-00.46.57:469][197]LogWorld: Bringing up level for play took: 0.002381
+[2016.11.12-00.46.57:473][197]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2016.11.12-00.46.57:473][197]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-00.46.57:473][197]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-00.46.57:473][197]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-00.46.57:474][197]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-00.46.57:474][197]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.268
+[2016.11.12-00.46.57:474][197]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2016.11.12-00.47.01:215][641]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2016.11.12-00.47.01:246][641]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2016.11.12-00.47.04:385][  5]LogAIModule: Creating AISystem for world MobBallTest
+[2016.11.12-00.47.04:400][  5]Cmd: MAP LOAD FILE="../../../../../../Users/Flor Cristal Espino/Documents/GitHub/MobBall/Content/MobBallTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.11.12-00.47.04:400][  5]LightingResults: New page: Lighting Build
+[2016.11.12-00.47.04:401][  5]LoadErrors: New page: Loading map: MobBallTest.umap
+[2016.11.12-00.47.04:401][  5]MapCheck: New page: Map Check
+[2016.11.12-00.47.04:401][  5]LightingResults: New page: Lighting Build
+[2016.11.12-00.47.04:412][  5]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.11.12-00.47.04:420][  5]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.11.12-00.47.04:505][  5]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 84.823ms to complete.
+[2016.11.12-00.47.04:505][  5]LogFileHelpers: Loading map 'MobBallTest' took 0.106
+[2016.11.12-00.47.05:645][133]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-00.47.05:645][133]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-00.47.05:645][133]PIE: New page: PIE session: MobBallTest (Nov 11, 2016, 8:47:05 AM)
+[2016.11.12-00.47.05:645][133]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MobBallTest
+[2016.11.12-00.47.05:648][133]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002669s)
+[2016.11.12-00.47.05:649][133]LogAIModule: Creating AISystem for world MobBallTest
+[2016.11.12-00.47.05:649][133]LogPlayLevel: PIE: World Init took: (0.000637s)
+[2016.11.12-00.47.05:649][133]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MobBallTest.MobBallTest to /Game/UEDPIE_0_MobBallTest.MobBallTest (0.003481s)
+[2016.11.12-00.47.05:672][133]LogInit: XAudio2 using 'Speakers (5- Logitech USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.12-00.47.05:681][133]LogInit: FAudioDevice initialized.
+[2016.11.12-00.47.05:711][133]LogWorld: Game class is 'GameMode'
+[2016.11.12-00.47.05:715][133]LogWorld: Bringing World /Game/UEDPIE_0_MobBallTest.MobBallTest up for play (max tick rate 0) at 2016.11.11-16.47.05
+[2016.11.12-00.47.05:715][133]LogWorld: Bringing up level for play took: 0.002694
+[2016.11.12-00.47.05:716][133]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-00.47.05:716][133]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-00.47.05:716][133]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-00.47.05:716][133]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-00.47.05:717][133]PIE: Info Play in editor start time for /Game/UEDPIE_0_MobBallTest 0.511
+[2016.11.12-00.47.05:717][133]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-00.47.33:449][458]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-00.47.33:477][458]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-00.47.34:906][628]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-00.47.34:906][628]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-00.47.34:907][628]PIE: New page: PIE session: MobBallTest (Nov 11, 2016, 8:47:34 AM)
+[2016.11.12-00.47.34:907][628]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MobBallTest
+[2016.11.12-00.47.34:908][628]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001746s)
+[2016.11.12-00.47.34:909][628]LogAIModule: Creating AISystem for world MobBallTest
+[2016.11.12-00.47.34:909][628]LogPlayLevel: PIE: World Init took: (0.000624s)
+[2016.11.12-00.47.34:909][628]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MobBallTest.MobBallTest to /Game/UEDPIE_0_MobBallTest.MobBallTest (0.002544s)
+[2016.11.12-00.47.34:933][628]LogInit: XAudio2 using 'Speakers (5- Logitech USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.12-00.47.34:939][628]LogInit: FAudioDevice initialized.
+[2016.11.12-00.47.34:969][628]LogWorld: Game class is 'GameMode'
+[2016.11.12-00.47.34:971][628]LogWorld: Bringing World /Game/UEDPIE_0_MobBallTest.MobBallTest up for play (max tick rate 0) at 2016.11.11-16.47.34
+[2016.11.12-00.47.34:971][628]LogWorld: Bringing up level for play took: 0.001909
+[2016.11.12-00.47.34:972][628]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-00.47.34:972][628]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-00.47.34:972][628]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-00.47.34:972][628]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-00.47.34:972][628]PIE: Info Play in editor start time for /Game/UEDPIE_0_MobBallTest -0.234
+[2016.11.12-00.47.34:972][628]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-00.47.42:955][585]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-00.47.42:984][585]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-00.47.44:502][765]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-00.47.44:502][765]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-00.47.44:502][765]PIE: New page: PIE session: MobBallTest (Nov 11, 2016, 8:47:44 AM)
+[2016.11.12-00.47.44:502][765]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MobBallTest
+[2016.11.12-00.47.44:504][765]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001685s)
+[2016.11.12-00.47.44:505][765]LogAIModule: Creating AISystem for world MobBallTest
+[2016.11.12-00.47.44:505][765]LogPlayLevel: PIE: World Init took: (0.000624s)
+[2016.11.12-00.47.44:505][765]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MobBallTest.MobBallTest to /Game/UEDPIE_0_MobBallTest.MobBallTest (0.002493s)
+[2016.11.12-00.47.44:528][765]LogInit: XAudio2 using 'Speakers (5- Logitech USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.12-00.47.44:534][765]LogInit: FAudioDevice initialized.
+[2016.11.12-00.47.44:567][765]LogWorld: Game class is 'GameMode'
+[2016.11.12-00.47.44:569][765]LogWorld: Bringing World /Game/UEDPIE_0_MobBallTest.MobBallTest up for play (max tick rate 0) at 2016.11.11-16.47.44
+[2016.11.12-00.47.44:569][765]LogWorld: Bringing up level for play took: 0.001887
+[2016.11.12-00.47.44:570][765]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-00.47.44:570][765]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-00.47.44:570][765]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-00.47.44:570][765]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-00.47.44:570][765]PIE: Info Play in editor start time for /Game/UEDPIE_0_MobBallTest -0.636
+[2016.11.12-00.47.44:570][765]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-00.47.54:464][952]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-00.47.54:494][952]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-00.54.11:983][246]LogEditorViewport: Clicking on Actor (LMB): TiltFloor_C (TiltFloor)
+[2016.11.12-00.54.14:385][532]LogEditorViewport: Clicking on Actor (LMB): Critter_C (Critter)
+[2016.11.12-00.54.17:124][858]LogEditorViewport: Clicking on Actor (CTRL LMB): TiltFloor_C (TiltFloor)
+[2016.11.12-00.54.17:639][918]LogEditorViewport: Clicking on Actor (CTRL LMB): Critter_C (Critter)
+[2016.11.12-00.54.29:166][284]LogEditorViewport: Clicking on Actor (LMB): TiltFloor_C (TiltFloor)
+[2016.11.12-00.54.32:361][665]LogEditorViewport: Clicking on Actor (LMB): Critter_C (Critter)
+[2016.11.12-00.54.35:849][ 81]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.11.12-00.54.37:053][223]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2016.11.12-00.54.37:924][321]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.11.12-00.54.39:450][503]LogEditorViewport: Clicking on Actor (context menu): Critter_C (Critter)
+[2016.11.12-00.54.47:498][463]Cmd: EDIT COPY
+[2016.11.12-00.54.48:190][546]Cmd: EDIT PASTE
+[2016.11.12-00.54.50:813][857]LogEditorViewport: Clicking on Actor (LMB): Critter_C (Critter)
+[2016.11.12-00.54.58:640][789]LogEditorViewport: Clicking on Actor (LMB): Critter_C (Critter2)
+[2016.11.12-00.55.00:976][ 67]LogEditorViewport: Clicking on Actor (LMB): Critter_C (Critter)
+[2016.11.12-00.55.07:301][822]LogEditorViewport: Clicking on Actor (LMB): Critter_C (Critter)
+[2016.11.12-00.55.07:390][831]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sphere)
+[2016.11.12-00.55.20:017][332]LogEditorViewport: Clicking on Actor (LMB): Critter_C (Critter2)
+[2016.11.12-00.55.28:212][307]LogEditorViewport: Clicking on Actor (LMB): scorebox_C (scorebox)
+[2016.11.12-00.55.30:055][526]Cmd: EDIT COPY
+[2016.11.12-00.55.30:980][637]Cmd: EDIT PASTE
+[2016.11.12-00.55.51:866][136]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-00.55.51:866][136]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-00.55.51:866][136]PIE: New page: PIE session: MobBallTest (Nov 11, 2016, 8:55:51 AM)
+[2016.11.12-00.55.51:866][136]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MobBallTest
+[2016.11.12-00.55.51:869][136]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002397s)
+[2016.11.12-00.55.51:869][136]LogAIModule: Creating AISystem for world MobBallTest
+[2016.11.12-00.55.51:869][136]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2016.11.12-00.55.51:869][136]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MobBallTest.MobBallTest to /Game/UEDPIE_0_MobBallTest.MobBallTest (0.003348s)
+[2016.11.12-00.55.51:892][136]LogInit: XAudio2 using 'Speakers (5- Logitech USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.12-00.55.51:899][136]LogInit: FAudioDevice initialized.
+[2016.11.12-00.55.51:929][136]LogWorld: Game class is 'GameMode'
+[2016.11.12-00.55.51:932][136]LogWorld: Bringing World /Game/UEDPIE_0_MobBallTest.MobBallTest up for play (max tick rate 0) at 2016.11.11-16.55.51
+[2016.11.12-00.55.51:932][136]LogWorld: Bringing up level for play took: 0.002279
+[2016.11.12-00.55.51:933][136]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-00.55.51:933][136]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-00.55.51:933][136]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-00.55.51:933][136]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-00.55.51:933][136]PIE: Info Play in editor start time for /Game/UEDPIE_0_MobBallTest 0.727
+[2016.11.12-00.55.51:933][136]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-00.55.58:228][891]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-00.55.58:264][891]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-00.56.02:899][441]LogEditorViewport: Clicking on Actor (LMB): TiltFloor_C (TiltFloor)
+[2016.11.12-00.56.05:518][753]LogEditorViewport: Clicking on Actor (CTRL LMB): Critter_C (Critter2)
+[2016.11.12-00.56.06:026][812]LogEditorViewport: Clicking on Actor (CTRL LMB): Critter_C (Critter)
+[2016.11.12-00.56.06:440][860]LogEditorViewport: Clicking on Actor (CTRL LMB): TiltFloor_C (TiltFloor)
+[2016.11.12-00.56.20:531][544]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.11.12-00.56.23:236][864]LogEditorViewport: Clicking on Actor (CTRL LMB): TiltFloor_C (TiltFloor)
+[2016.11.12-00.56.37:745][562]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-00.56.37:745][562]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-00.56.37:745][562]PIE: New page: PIE session: MobBallTest (Nov 11, 2016, 8:56:37 AM)
+[2016.11.12-00.56.37:745][562]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MobBallTest
+[2016.11.12-00.56.37:747][562]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002163s)
+[2016.11.12-00.56.37:748][562]LogAIModule: Creating AISystem for world MobBallTest
+[2016.11.12-00.56.37:748][562]LogPlayLevel: PIE: World Init took: (0.000805s)
+[2016.11.12-00.56.37:748][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MobBallTest.MobBallTest to /Game/UEDPIE_0_MobBallTest.MobBallTest (0.003136s)
+[2016.11.12-00.56.37:769][562]LogInit: XAudio2 using 'Speakers (5- Logitech USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.12-00.56.37:775][562]LogInit: FAudioDevice initialized.
+[2016.11.12-00.56.37:802][562]LogWorld: Game class is 'GameMode'
+[2016.11.12-00.56.37:805][562]LogWorld: Bringing World /Game/UEDPIE_0_MobBallTest.MobBallTest up for play (max tick rate 0) at 2016.11.11-16.56.37
+[2016.11.12-00.56.37:805][562]LogWorld: Bringing up level for play took: 0.002144
+[2016.11.12-00.56.37:806][562]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-00.56.37:806][562]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-00.56.37:806][562]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-00.56.37:806][562]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-00.56.37:806][562]PIE: Info Play in editor start time for /Game/UEDPIE_0_MobBallTest 0.6
+[2016.11.12-00.56.37:806][562]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-00.56.47:860][768]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-00.56.47:892][768]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-00.56.52:539][314]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.11.12-00.56.53:082][377]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2016.11.12-00.57.30:275][799]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.11.12-00.57.35:484][402]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2016.11.12-00.58.04:038][790]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.11.12-00.58.06:223][ 46]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-00.58.06:223][ 46]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-00.58.06:223][ 46]PIE: New page: PIE session: MobBallTest (Nov 11, 2016, 8:58:06 AM)
+[2016.11.12-00.58.06:223][ 46]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MobBallTest
+[2016.11.12-00.58.06:225][ 46]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002312s)
+[2016.11.12-00.58.06:226][ 46]LogAIModule: Creating AISystem for world MobBallTest
+[2016.11.12-00.58.06:226][ 46]LogPlayLevel: PIE: World Init took: (0.000921s)
+[2016.11.12-00.58.06:227][ 46]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MobBallTest.MobBallTest to /Game/UEDPIE_0_MobBallTest.MobBallTest (0.003439s)
+[2016.11.12-00.58.06:248][ 46]LogInit: XAudio2 using 'Speakers (5- Logitech USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.12-00.58.06:255][ 46]LogInit: FAudioDevice initialized.
+[2016.11.12-00.58.06:283][ 46]LogWorld: Game class is 'GameMode'
+[2016.11.12-00.58.06:285][ 46]LogWorld: Bringing World /Game/UEDPIE_0_MobBallTest.MobBallTest up for play (max tick rate 0) at 2016.11.11-16.58.06
+[2016.11.12-00.58.06:285][ 46]LogWorld: Bringing up level for play took: 0.002191
+[2016.11.12-00.58.06:286][ 46]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-00.58.06:286][ 46]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-00.58.06:286][ 46]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-00.58.06:287][ 46]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-00.58.06:287][ 46]PIE: Info Play in editor start time for /Game/UEDPIE_0_MobBallTest -0.919
+[2016.11.12-00.58.06:287][ 46]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-00.58.29:448][825]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-00.58.29:480][825]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-00.59.00:444][511]LogEditorViewport: Clicking on Actor (context menu): Critter_C (Critter2)
+[2016.11.12-00.59.07:560][342]Cmd: DELETE
+[2016.11.12-00.59.07:560][342]Cmd: ACTOR DELETE
+[2016.11.12-00.59.07:561][342]LogEditorActor: Deleted Actor: Critter_C
+[2016.11.12-00.59.07:566][342]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2016.11.12-00.59.08:366][437]LogEditorViewport: Clicking on Actor (context menu): Critter_C (Critter)
+[2016.11.12-00.59.11:925][852]Cmd: DELETE
+[2016.11.12-00.59.11:925][852]Cmd: ACTOR DELETE
+[2016.11.12-00.59.11:926][852]LogEditorActor: Deleted Actor: Critter_C
+[2016.11.12-00.59.11:931][852]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2016.11.12-00.59.31:733][428]LogEditorViewport: Clicking on Actor (context menu): scorebox_C (scorebox2)
+[2016.11.12-00.59.35:910][905]Cmd: DELETE
+[2016.11.12-00.59.35:910][905]Cmd: ACTOR DELETE
+[2016.11.12-00.59.35:911][905]LogEditorActor: Deleted Actor: scorebox_C
+[2016.11.12-00.59.35:916][905]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2016.11.12-00.59.36:999][ 35]LogEditorViewport: Clicking on Actor (LMB): scorebox_C (scorebox)
+[2016.11.12-00.59.43:074][760]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.11.12-01.00.13:934][403]LogPhysics:Warning: Initialising Body : Scale3D is (nearly) zero: Component: TiltFloor2_1478.Floor Cube 
+[2016.11.12-01.00.21:874][354]LogEditorViewport: Clicking on Actor (LMB): TiltFloor_C (TiltFloor2)
+[2016.11.12-01.00.22:529][432]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.11.12-01.00.22:996][486]LogEditorViewport: Clicking on Actor (LMB): TiltFloor_C (TiltFloor2)
+[2016.11.12-01.00.23:845][586]Cmd: EDIT COPY
+[2016.11.12-01.00.24:370][649]Cmd: EDIT PASTE
+[2016.11.12-01.00.32:857][665]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.11.12-01.00.53:625][125]LogEditorViewport: Clicking on Actor (LMB): TiltFloor_C (TiltFloor2)
+[2016.11.12-01.00.55:787][380]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.11.12-01.00.56:690][486]LogEditorViewport: Clicking on Actor (CTRL LMB): TiltFloor_C (TiltFloor2)
+[2016.11.12-01.00.57:529][585]LogEditorViewport: Clicking on Actor (CTRL LMB): TiltFloor_C (TiltFloor3)
+[2016.11.12-01.01.33:901][927]LogEditorViewport: Clicking on Actor (LMB): TiltFloor_C (TiltFloor2)
+[2016.11.12-01.01.37:382][342]LogEditorViewport: Clicking on Actor (LMB): TiltFloor_C (TiltFloor3)
+[2016.11.12-01.01.43:266][ 46]LogEditorViewport: Clicking on Actor (LMB): TiltFloor_C (TiltFloor2)
+[2016.11.12-01.01.55:961][566]LogEditorViewport: Clicking on Actor (LMB): TiltFloor_C (TiltFloor3)
+[2016.11.12-01.02.40:277][856]LogSavePackage: Save=51.34ms
+[2016.11.12-01.02.40:277][856]LogSavePackage: Moving '../../../../../../Users/Flor Cristal Espino/Documents/GitHub/MobBall/Saved/MobBallTest_Auto13319BD5F4A328DD278BC55A71C6EFF3C.tmp' to '../../../../../../Users/Flor Cristal Espino/Documents/GitHub/MobBall/Saved/Autosaves/Game/MobBallTest_Auto1.umap'
+[2016.11.12-01.02.40:278][856]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Flor Cristal Espino/Documents/GitHub/MobBall/Saved/Autosaves/Game/MobBallTest_Auto1.umap
+[2016.11.12-01.02.40:280][856]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MobBallTest' took 0.071
+[2016.11.12-01.02.40:280][856]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.071
+[2016.11.12-01.03.01:399][382]LogEditorViewport: Clicking on Actor (LMB): TiltFloor_C (TiltFloor2)
+[2016.11.12-01.03.02:534][514]Cmd: EDIT COPY
+[2016.11.12-01.03.03:219][596]Cmd: EDIT PASTE
+[2016.11.12-01.03.10:300][443]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.11.12-01.03.11:784][618]LogEditorViewport: Clicking on Actor (LMB): TiltFloor_C (TiltFloor4)
+[2016.11.12-01.03.20:878][705]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2016.11.12-01.03.21:756][806]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.11.12-01.03.41:345][144]LogEditorViewport: Clicking on Actor (LMB): TiltFloor_C (TiltFloor)
+[2016.11.12-01.03.42:941][333]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.11.12-01.03.44:979][573]LogEditorViewport: Clicking on Actor (CTRL LMB): TiltFloor_C (TiltFloor)
+[2016.11.12-01.03.45:834][673]LogEditorViewport: Clicking on Actor (CTRL LMB): scorebox_C (scorebox)
+[2016.11.12-01.04.18:633][566]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.11.12-01.04.21:840][948]LogEditorViewport: Clicking on Actor (LMB): TiltFloor_C (TiltFloor3)
+[2016.11.12-01.04.22:828][ 64]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.11.12-01.05.18:852][332]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2016.11.12-01.05.19:843][445]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.11.12-01.05.32:156][906]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2016.11.12-01.05.34:583][190]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2016.11.12-01.06.39:050][765]LogEditorViewport: Clicking on Actor (LMB): Critter_C (Critter2)
+[2016.11.12-01.07.01:134][320]LogEditorViewport: Clicking on Actor (LMB): Critter_C (Critter)
+[2016.11.12-01.07.15:131][961]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2016.11.12-01.07.33:378][115]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.11.12-01.07.34:222][210]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2016.11.12-01.08.00:107][297]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.11.12-01.08.02:490][576]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.08.02:490][576]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-01.08.02:490][576]PIE: New page: PIE session: MobBallTest (Nov 11, 2016, 9:08:02 AM)
+[2016.11.12-01.08.02:490][576]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MobBallTest
+[2016.11.12-01.08.02:493][576]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002481s)
+[2016.11.12-01.08.02:494][576]LogAIModule: Creating AISystem for world MobBallTest
+[2016.11.12-01.08.02:494][576]LogPlayLevel: PIE: World Init took: (0.000831s)
+[2016.11.12-01.08.02:494][576]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MobBallTest.MobBallTest to /Game/UEDPIE_0_MobBallTest.MobBallTest (0.003500s)
+[2016.11.12-01.08.02:524][576]LogInit: XAudio2 using 'Speakers (5- Logitech USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.12-01.08.02:530][576]LogInit: FAudioDevice initialized.
+[2016.11.12-01.08.02:560][576]LogWorld: Game class is 'GameMode'
+[2016.11.12-01.08.02:563][576]LogWorld: Bringing World /Game/UEDPIE_0_MobBallTest.MobBallTest up for play (max tick rate 0) at 2016.11.11-17.08.02
+[2016.11.12-01.08.02:563][576]LogWorld: Bringing up level for play took: 0.002417
+[2016.11.12-01.08.02:564][576]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.08.02:564][576]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.08.02:564][576]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.08.02:565][576]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.08.02:565][576]PIE: Info Play in editor start time for /Game/UEDPIE_0_MobBallTest -0.641
+[2016.11.12-01.08.02:565][576]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.08.20:479][725]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.08.20:513][725]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.08.21:962][895]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.08.21:962][895]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-01.08.21:962][895]PIE: New page: PIE session: MobBallTest (Nov 11, 2016, 9:08:21 AM)
+[2016.11.12-01.08.21:962][895]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MobBallTest
+[2016.11.12-01.08.21:966][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003268s)
+[2016.11.12-01.08.21:966][895]LogAIModule: Creating AISystem for world MobBallTest
+[2016.11.12-01.08.21:967][895]LogPlayLevel: PIE: World Init took: (0.000833s)
+[2016.11.12-01.08.21:967][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MobBallTest.MobBallTest to /Game/UEDPIE_0_MobBallTest.MobBallTest (0.004313s)
+[2016.11.12-01.08.21:991][895]LogInit: XAudio2 using 'Speakers (5- Logitech USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.12-01.08.21:997][895]LogInit: FAudioDevice initialized.
+[2016.11.12-01.08.22:025][895]LogWorld: Game class is 'GameMode'
+[2016.11.12-01.08.22:028][895]LogWorld: Bringing World /Game/UEDPIE_0_MobBallTest.MobBallTest up for play (max tick rate 0) at 2016.11.11-17.08.22
+[2016.11.12-01.08.22:028][895]LogWorld: Bringing up level for play took: 0.002202
+[2016.11.12-01.08.22:029][895]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.08.22:029][895]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.08.22:029][895]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.08.22:029][895]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.08.22:029][895]PIE: Info Play in editor start time for /Game/UEDPIE_0_MobBallTest 0.823
+[2016.11.12-01.08.22:029][895]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.08.35:965][566]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.08.35:995][566]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.08.37:344][725]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.08.37:345][725]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-01.08.37:345][725]PIE: New page: PIE session: MobBallTest (Nov 11, 2016, 9:08:37 AM)
+[2016.11.12-01.08.37:345][725]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MobBallTest
+[2016.11.12-01.08.37:347][725]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001842s)
+[2016.11.12-01.08.37:347][725]LogAIModule: Creating AISystem for world MobBallTest
+[2016.11.12-01.08.37:347][725]LogPlayLevel: PIE: World Init took: (0.000596s)
+[2016.11.12-01.08.37:347][725]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MobBallTest.MobBallTest to /Game/UEDPIE_0_MobBallTest.MobBallTest (0.002595s)
+[2016.11.12-01.08.37:369][725]LogInit: XAudio2 using 'Speakers (5- Logitech USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.12-01.08.37:375][725]LogInit: FAudioDevice initialized.
+[2016.11.12-01.08.37:403][725]LogWorld: Game class is 'GameMode'
+[2016.11.12-01.08.37:406][725]LogWorld: Bringing World /Game/UEDPIE_0_MobBallTest.MobBallTest up for play (max tick rate 0) at 2016.11.11-17.08.37
+[2016.11.12-01.08.37:406][725]LogWorld: Bringing up level for play took: 0.002190
+[2016.11.12-01.08.37:407][725]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.08.37:407][725]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.08.37:407][725]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.08.37:407][725]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.08.37:407][725]PIE: Info Play in editor start time for /Game/UEDPIE_0_MobBallTest 0.201
+[2016.11.12-01.08.37:407][725]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.08.50:186][258]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.08.50:219][258]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.08.51:474][405]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.08.51:474][405]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-01.08.51:474][405]PIE: New page: PIE session: MobBallTest (Nov 11, 2016, 9:08:51 AM)
+[2016.11.12-01.08.51:474][405]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MobBallTest
+[2016.11.12-01.08.51:476][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001998s)
+[2016.11.12-01.08.51:476][405]LogAIModule: Creating AISystem for world MobBallTest
+[2016.11.12-01.08.51:477][405]LogPlayLevel: PIE: World Init took: (0.000646s)
+[2016.11.12-01.08.51:477][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MobBallTest.MobBallTest to /Game/UEDPIE_0_MobBallTest.MobBallTest (0.002811s)
+[2016.11.12-01.08.51:496][405]LogInit: XAudio2 using 'Speakers (5- Logitech USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.12-01.08.51:502][405]LogInit: FAudioDevice initialized.
+[2016.11.12-01.08.51:530][405]LogWorld: Game class is 'GameMode'
+[2016.11.12-01.08.51:533][405]LogWorld: Bringing World /Game/UEDPIE_0_MobBallTest.MobBallTest up for play (max tick rate 0) at 2016.11.11-17.08.51
+[2016.11.12-01.08.51:533][405]LogWorld: Bringing up level for play took: 0.002263
+[2016.11.12-01.08.51:534][405]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.08.51:534][405]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.08.51:534][405]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.08.51:534][405]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.08.51:534][405]PIE: Info Play in editor start time for /Game/UEDPIE_0_MobBallTest 0.328
+[2016.11.12-01.08.51:534][405]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.08.58:706][265]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.08.58:738][265]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.08.59:901][402]LogEditorViewport: Clicking on Actor (LMB): TiltFloor_C (TiltFloor2)
+[2016.11.12-01.09.07:921][362]LogEditorViewport: Clicking on Actor (LMB): TiltFloor_C (TiltFloor2)
+[2016.11.12-01.09.14:217][116]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.11.12-01.09.15:052][214]LogEditorViewport: Clicking on Actor (LMB): TiltFloor_C (TiltFloor2)
+[2016.11.12-01.09.18:884][671]LogEditorViewport: Clicking on Actor (LMB): TiltFloor_C (TiltFloor3)
+[2016.11.12-01.09.25:714][487]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.11.12-01.09.26:745][608]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.09.26:745][608]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-01.09.26:745][608]PIE: New page: PIE session: MobBallTest (Nov 11, 2016, 9:09:26 AM)
+[2016.11.12-01.09.26:745][608]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MobBallTest
+[2016.11.12-01.09.26:747][608]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001916s)
+[2016.11.12-01.09.26:748][608]LogAIModule: Creating AISystem for world MobBallTest
+[2016.11.12-01.09.26:748][608]LogPlayLevel: PIE: World Init took: (0.000751s)
+[2016.11.12-01.09.26:748][608]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MobBallTest.MobBallTest to /Game/UEDPIE_0_MobBallTest.MobBallTest (0.002821s)
+[2016.11.12-01.09.26:768][608]LogInit: XAudio2 using 'Speakers (5- Logitech USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.12-01.09.26:774][608]LogInit: FAudioDevice initialized.
+[2016.11.12-01.09.26:805][608]LogWorld: Game class is 'GameMode'
+[2016.11.12-01.09.26:808][608]LogWorld: Bringing World /Game/UEDPIE_0_MobBallTest.MobBallTest up for play (max tick rate 0) at 2016.11.11-17.09.26
+[2016.11.12-01.09.26:808][608]LogWorld: Bringing up level for play took: 0.002296
+[2016.11.12-01.09.26:809][608]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.09.26:809][608]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.09.26:809][608]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.09.26:809][608]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.09.26:809][608]PIE: Info Play in editor start time for /Game/UEDPIE_0_MobBallTest -0.397
+[2016.11.12-01.09.26:809][608]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.09.41:259][341]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.09.41:290][341]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.09.42:308][460]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.09.42:308][460]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-01.09.42:308][460]PIE: New page: PIE session: MobBallTest (Nov 11, 2016, 9:09:42 AM)
+[2016.11.12-01.09.42:308][460]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MobBallTest
+[2016.11.12-01.09.42:310][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002073s)
+[2016.11.12-01.09.42:311][460]LogAIModule: Creating AISystem for world MobBallTest
+[2016.11.12-01.09.42:311][460]LogPlayLevel: PIE: World Init took: (0.000603s)
+[2016.11.12-01.09.42:311][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MobBallTest.MobBallTest to /Game/UEDPIE_0_MobBallTest.MobBallTest (0.002831s)
+[2016.11.12-01.09.42:331][460]LogInit: XAudio2 using 'Speakers (5- Logitech USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.12-01.09.42:337][460]LogInit: FAudioDevice initialized.
+[2016.11.12-01.09.42:367][460]LogWorld: Game class is 'GameMode'
+[2016.11.12-01.09.42:370][460]LogWorld: Bringing World /Game/UEDPIE_0_MobBallTest.MobBallTest up for play (max tick rate 0) at 2016.11.11-17.09.42
+[2016.11.12-01.09.42:370][460]LogWorld: Bringing up level for play took: 0.002305
+[2016.11.12-01.09.42:371][460]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.09.42:371][460]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.09.42:371][460]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.09.42:371][460]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.09.42:371][460]PIE: Info Play in editor start time for /Game/UEDPIE_0_MobBallTest -0.835
+[2016.11.12-01.09.42:372][460]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.10.01:829][793]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.10.01:862][793]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.10.05:130][182]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.10.05:130][182]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-01.10.05:130][182]PIE: New page: PIE session: MobBallTest (Nov 11, 2016, 9:10:05 AM)
+[2016.11.12-01.10.05:130][182]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MobBallTest
+[2016.11.12-01.10.05:132][182]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001995s)
+[2016.11.12-01.10.05:133][182]LogAIModule: Creating AISystem for world MobBallTest
+[2016.11.12-01.10.05:133][182]LogPlayLevel: PIE: World Init took: (0.000679s)
+[2016.11.12-01.10.05:133][182]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MobBallTest.MobBallTest to /Game/UEDPIE_0_MobBallTest.MobBallTest (0.002856s)
+[2016.11.12-01.10.05:154][182]LogInit: XAudio2 using 'Speakers (5- Logitech USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.12-01.10.05:160][182]LogInit: FAudioDevice initialized.
+[2016.11.12-01.10.05:191][182]LogWorld: Game class is 'GameMode'
+[2016.11.12-01.10.05:194][182]LogWorld: Bringing World /Game/UEDPIE_0_MobBallTest.MobBallTest up for play (max tick rate 0) at 2016.11.11-17.10.05
+[2016.11.12-01.10.05:194][182]LogWorld: Bringing up level for play took: 0.002311
+[2016.11.12-01.10.05:195][182]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.10.05:195][182]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.10.05:195][182]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.10.05:195][182]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.10.05:195][182]PIE: Info Play in editor start time for /Game/UEDPIE_0_MobBallTest -0.011
+[2016.11.12-01.10.05:195][182]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.10.20:969][ 74]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.10.21:004][ 74]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.10.24:008][432]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.11.12-01.14.22:826][620]LogSavePackage: Save=61.79ms
+[2016.11.12-01.14.22:826][620]LogSavePackage: Moving '../../../../../../Users/Flor Cristal Espino/Documents/GitHub/MobBall/Saved/MobBallTest_Auto244E8135444C861BC9D080F957CEE3585.tmp' to '../../../../../../Users/Flor Cristal Espino/Documents/GitHub/MobBall/Saved/Autosaves/Game/MobBallTest_Auto2.umap'
+[2016.11.12-01.14.22:827][620]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Flor Cristal Espino/Documents/GitHub/MobBall/Saved/Autosaves/Game/MobBallTest_Auto2.umap
+[2016.11.12-01.14.22:829][620]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MobBallTest' took 0.076
+[2016.11.12-01.14.22:829][620]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.076
+[2016.11.12-01.21.07:908][625]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.21.07:908][625]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-01.21.07:908][625]PIE: New page: PIE session: MobBallTest (Nov 11, 2016, 9:21:07 AM)
+[2016.11.12-01.21.07:908][625]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MobBallTest
+[2016.11.12-01.21.07:911][625]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002469s)
+[2016.11.12-01.21.07:912][625]LogAIModule: Creating AISystem for world MobBallTest
+[2016.11.12-01.21.07:912][625]LogPlayLevel: PIE: World Init took: (0.000892s)
+[2016.11.12-01.21.07:912][625]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MobBallTest.MobBallTest to /Game/UEDPIE_0_MobBallTest.MobBallTest (0.003531s)
+[2016.11.12-01.21.07:935][625]LogInit: XAudio2 using 'Speakers (5- Logitech USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.12-01.21.07:943][625]LogInit: FAudioDevice initialized.
+[2016.11.12-01.21.07:971][625]LogWorld: Game class is 'GameMode'
+[2016.11.12-01.21.07:974][625]LogWorld: Bringing World /Game/UEDPIE_0_MobBallTest.MobBallTest up for play (max tick rate 0) at 2016.11.11-17.21.07
+[2016.11.12-01.21.07:975][625]LogWorld: Bringing up level for play took: 0.002568
+[2016.11.12-01.21.07:975][625]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.21.07:975][625]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.21.07:975][625]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.21.07:976][625]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.21.07:976][625]PIE: Info Play in editor start time for /Game/UEDPIE_0_MobBallTest 0.77
+[2016.11.12-01.21.07:976][625]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.21.10:904][976]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.21.10:940][976]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.21.11:623][ 55]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.21.11:624][ 55]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-01.21.11:624][ 55]PIE: New page: PIE session: MobBallTest (Nov 11, 2016, 9:21:11 AM)
+[2016.11.12-01.21.11:624][ 55]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MobBallTest
+[2016.11.12-01.21.11:626][ 55]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002070s)
+[2016.11.12-01.21.11:626][ 55]LogAIModule: Creating AISystem for world MobBallTest
+[2016.11.12-01.21.11:626][ 55]LogPlayLevel: PIE: World Init took: (0.000667s)
+[2016.11.12-01.21.11:627][ 55]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MobBallTest.MobBallTest to /Game/UEDPIE_0_MobBallTest.MobBallTest (0.002920s)
+[2016.11.12-01.21.11:646][ 55]LogInit: XAudio2 using 'Speakers (5- Logitech USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.12-01.21.11:652][ 55]LogInit: FAudioDevice initialized.
+[2016.11.12-01.21.11:680][ 55]LogWorld: Game class is 'GameMode'
+[2016.11.12-01.21.11:683][ 55]LogWorld: Bringing World /Game/UEDPIE_0_MobBallTest.MobBallTest up for play (max tick rate 0) at 2016.11.11-17.21.11
+[2016.11.12-01.21.11:683][ 55]LogWorld: Bringing up level for play took: 0.002358
+[2016.11.12-01.21.11:684][ 55]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.21.11:684][ 55]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.21.11:684][ 55]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.21.11:684][ 55]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.21.11:684][ 55]PIE: Info Play in editor start time for /Game/UEDPIE_0_MobBallTest 0.478
+[2016.11.12-01.21.11:684][ 55]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.21.13:028][216]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.21.13:063][216]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.21.25:171][649]LogTexture:Display: Building textures: T_Spark_Core (AutoDXT)
+[2016.11.12-01.21.25:229][649]LogTexture:Display: Building textures: ThumbnailTexture (DXT1)
+[2016.11.12-01.21.33:810][668]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.21.33:810][668]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-01.21.33:811][668]PIE: New page: PIE session: MobBallTest (Nov 11, 2016, 9:21:33 AM)
+[2016.11.12-01.21.33:811][668]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MobBallTest
+[2016.11.12-01.21.33:813][668]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002254s)
+[2016.11.12-01.21.33:813][668]LogAIModule: Creating AISystem for world MobBallTest
+[2016.11.12-01.21.33:814][668]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2016.11.12-01.21.33:814][668]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MobBallTest.MobBallTest to /Game/UEDPIE_0_MobBallTest.MobBallTest (0.003309s)
+[2016.11.12-01.21.33:835][668]LogInit: XAudio2 using 'Speakers (5- Logitech USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.12-01.21.33:841][668]LogInit: FAudioDevice initialized.
+[2016.11.12-01.21.33:869][668]LogWorld: Game class is 'GameMode'
+[2016.11.12-01.21.33:872][668]LogWorld: Bringing World /Game/UEDPIE_0_MobBallTest.MobBallTest up for play (max tick rate 0) at 2016.11.11-17.21.33
+[2016.11.12-01.21.33:872][668]LogWorld: Bringing up level for play took: 0.002556
+[2016.11.12-01.21.33:873][668]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.21.33:873][668]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.21.33:873][668]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.21.33:873][668]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.21.33:873][668]PIE: Info Play in editor start time for /Game/UEDPIE_0_MobBallTest 0.667
+[2016.11.12-01.21.33:873][668]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.21.39:437][335]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.21.39:470][335]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.21.48:754][443]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.21.48:754][443]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-01.21.48:754][443]PIE: New page: PIE session: MobBallTest (Nov 11, 2016, 9:21:48 AM)
+[2016.11.12-01.21.48:754][443]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MobBallTest
+[2016.11.12-01.21.48:757][443]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002463s)
+[2016.11.12-01.21.48:757][443]LogAIModule: Creating AISystem for world MobBallTest
+[2016.11.12-01.21.48:758][443]LogPlayLevel: PIE: World Init took: (0.000924s)
+[2016.11.12-01.21.48:758][443]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MobBallTest.MobBallTest to /Game/UEDPIE_0_MobBallTest.MobBallTest (0.003606s)
+[2016.11.12-01.21.48:783][443]LogInit: XAudio2 using 'Speakers (5- Logitech USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.12-01.21.48:789][443]LogInit: FAudioDevice initialized.
+[2016.11.12-01.21.48:815][443]LogWorld: Game class is 'GameMode'
+[2016.11.12-01.21.48:820][443]LogWorld: Bringing World /Game/UEDPIE_0_MobBallTest.MobBallTest up for play (max tick rate 0) at 2016.11.11-17.21.48
+[2016.11.12-01.21.48:820][443]LogWorld: Bringing up level for play took: 0.003794
+[2016.11.12-01.21.48:821][443]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.21.48:821][443]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.21.48:821][443]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.21.48:821][443]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.21.48:822][443]PIE: Info Play in editor start time for /Game/UEDPIE_0_MobBallTest -0.384
+[2016.11.12-01.21.48:822][443]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.21.52:094][834]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.21.52:132][834]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.21.59:818][723]LogEditorViewport: Clicking on Actor (context menu): Emitter (P_Sparks)
+[2016.11.12-01.22.07:978][650]Cmd: DELETE
+[2016.11.12-01.22.07:978][650]Cmd: ACTOR DELETE
+[2016.11.12-01.22.07:979][650]LogEditorActor: Deleted Actor: Emitter
+[2016.11.12-01.22.07:985][650]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2016.11.12-01.22.08:724][739]LogEditorViewport: Clicking on Actor (context menu): Emitter (P_Explosion)
+[2016.11.12-01.22.12:933][224]Cmd: DELETE
+[2016.11.12-01.22.12:933][224]Cmd: ACTOR DELETE
+[2016.11.12-01.22.12:934][224]LogEditorActor: Deleted Actor: Emitter
+[2016.11.12-01.22.12:941][224]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2016.11.12-01.24.37:151][604]LogSavePackage: Save=57.64ms
+[2016.11.12-01.24.37:151][604]LogSavePackage: Moving '../../../../../../Users/Flor Cristal Espino/Documents/GitHub/MobBall/Saved/MobBallTest_Auto353942902404AF00D958855B6A484FCF5.tmp' to '../../../../../../Users/Flor Cristal Espino/Documents/GitHub/MobBall/Saved/Autosaves/Game/MobBallTest_Auto3.umap'
+[2016.11.12-01.24.37:152][604]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Flor Cristal Espino/Documents/GitHub/MobBall/Saved/Autosaves/Game/MobBallTest_Auto3.umap
+[2016.11.12-01.24.37:153][604]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MobBallTest' took 0.075
+[2016.11.12-01.24.37:154][604]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.075
+[2016.11.12-01.25.17:721][893]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0004 seconds. Added 2 classes and 2 folders.
+[2016.11.12-01.25.17:775][893]LogTexture:Display: Building textures: CASC_Normal (BC5)
+[2016.11.12-01.25.17:776][893]LogTexture:Display: Building textures: CASC_Point (AutoDXT)
+[2016.11.12-01.25.17:778][893]LogTexture:Display: Building textures: CASC_Lights (BC5)
+[2016.11.12-01.25.17:779][893]LogTexture:Display: Building textures: CASC_CurveEd (AutoDXT)
+[2016.11.12-01.25.17:781][893]LogTexture:Display: Building textures: CASC_ModuleEnable (AutoDXT)
+[2016.11.12-01.25.17:782][893]LogTexture:Display: Building textures: CASC_ModuleDisable (AutoDXT)
+[2016.11.12-01.25.17:784][893]LogTexture:Display: Building textures: CASC_Solo_On (AutoDXT)
+[2016.11.12-01.25.17:785][893]LogTexture:Display: Building textures: CASC_Solo_Off (AutoDXT)
+[2016.11.12-01.25.17:787][893]LogTexture:Display: Building textures: CASC_DisabledModule (AutoDXT)
+[2016.11.12-01.28.23:042][141]LogCascade: Quitting Cascade. FXSystem=0x0000020B8A5194E0
+[2016.11.12-01.28.24:580][314]LogEditorViewport: Clicking on Actor (context menu): Emitter (P_Sparks)
+[2016.11.12-01.28.28:602][787]Cmd: DELETE
+[2016.11.12-01.28.28:602][787]Cmd: ACTOR DELETE
+[2016.11.12-01.28.28:602][787]LogEditorActor: Deleted Actor: Emitter
+[2016.11.12-01.28.28:609][787]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2016.11.12-01.29.19:519][830]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.11.12-01.31.12:402][888]LogCascade: Quitting Cascade. FXSystem=0x0000020B8203F600
+[2016.11.12-01.31.14:082][ 79]LogEditorViewport: Clicking on Actor (context menu): Emitter (P_Ambient_Dust)
+[2016.11.12-01.31.20:089][780]Cmd: DELETE
+[2016.11.12-01.31.20:089][780]Cmd: ACTOR DELETE
+[2016.11.12-01.31.20:089][780]LogEditorActor: Deleted Actor: Emitter
+[2016.11.12-01.31.20:096][780]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2016.11.12-01.34.37:924][387]LogSavePackage: Save=52.97ms
+[2016.11.12-01.34.37:924][387]LogSavePackage: Moving '../../../../../../Users/Flor Cristal Espino/Documents/GitHub/MobBall/Saved/MobBallTest_Auto4C664382F42F1A56E0FEED5BA3C8AA781.tmp' to '../../../../../../Users/Flor Cristal Espino/Documents/GitHub/MobBall/Saved/Autosaves/Game/MobBallTest_Auto4.umap'
+[2016.11.12-01.34.37:925][387]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Flor Cristal Espino/Documents/GitHub/MobBall/Saved/Autosaves/Game/MobBallTest_Auto4.umap
+[2016.11.12-01.34.37:927][387]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MobBallTest' took 0.068
+[2016.11.12-01.34.37:927][387]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.068
+[2016.11.12-01.40.34:044][649]LogCascade: Quitting Cascade. FXSystem=0x0000020B82592980
+[2016.11.12-01.40.37:160][ 13]LogEditorViewport: Clicking on Actor (context menu): Emitter (P_Fire)
+[2016.11.12-01.40.43:956][797]Cmd: DELETE
+[2016.11.12-01.40.43:956][797]Cmd: ACTOR DELETE
+[2016.11.12-01.40.43:956][797]LogEditorActor: Deleted Actor: Emitter
+[2016.11.12-01.40.43:963][797]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2016.11.12-01.41.32:092][309]LogEditorViewport: Clicking on Actor (LMB): Brush (Brush8)
+[2016.11.12-01.44.39:983][610]LogSavePackage: Save=53.19ms
+[2016.11.12-01.44.39:983][610]LogSavePackage: Moving '../../../../../../Users/Flor Cristal Espino/Documents/GitHub/MobBall/Saved/MobBallTest_Auto5A258BE4E41E856FC17F002BA8DF27DEB.tmp' to '../../../../../../Users/Flor Cristal Espino/Documents/GitHub/MobBall/Saved/Autosaves/Game/MobBallTest_Auto5.umap'
+[2016.11.12-01.44.39:985][610]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Flor Cristal Espino/Documents/GitHub/MobBall/Saved/Autosaves/Game/MobBallTest_Auto5.umap
+[2016.11.12-01.44.39:986][610]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MobBallTest' took 0.073
+[2016.11.12-01.44.39:986][610]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.073
+[2016.11.12-01.44.46:512][630]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.11.12-01.45.49:612][707]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 112 classes and 0 folders.
+[2016.11.12-01.50.09:044][919]BlueprintLog: New page: Compile Blueprint_Effect_Explosion
+[2016.11.12-01.50.52:646][711]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.50.52:646][711]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-01.50.52:646][711]PIE: New page: PIE session: MobBallTest (Nov 11, 2016, 9:50:52 AM)
+[2016.11.12-01.50.52:646][711]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MobBallTest
+[2016.11.12-01.50.52:649][711]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002580s)
+[2016.11.12-01.50.52:649][711]LogAIModule: Creating AISystem for world MobBallTest
+[2016.11.12-01.50.52:650][711]LogPlayLevel: PIE: World Init took: (0.000795s)
+[2016.11.12-01.50.52:650][711]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MobBallTest.MobBallTest to /Game/UEDPIE_0_MobBallTest.MobBallTest (0.003550s)
+[2016.11.12-01.50.52:674][711]LogInit: XAudio2 using 'Speakers (5- Logitech USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.12-01.50.52:681][711]LogInit: FAudioDevice initialized.
+[2016.11.12-01.50.52:712][711]LogWorld: Game class is 'GameMode'
+[2016.11.12-01.50.52:715][711]LogWorld: Bringing World /Game/UEDPIE_0_MobBallTest.MobBallTest up for play (max tick rate 0) at 2016.11.11-17.50.52
+[2016.11.12-01.50.52:715][711]LogWorld: Bringing up level for play took: 0.002591
+[2016.11.12-01.50.52:716][711]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.50.52:716][711]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.50.52:716][711]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.50.52:716][711]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.50.52:716][711]PIE: Info Play in editor start time for /Game/UEDPIE_0_MobBallTest -0.49
+[2016.11.12-01.50.52:716][711]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.51.04:986][182]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.51.05:023][182]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.51.11:304][919]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.51.11:304][919]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-01.51.11:304][919]PIE: New page: PIE session: MobBallTest (Nov 11, 2016, 9:51:11 AM)
+[2016.11.12-01.51.11:304][919]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MobBallTest
+[2016.11.12-01.51.11:306][919]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002014s)
+[2016.11.12-01.51.11:307][919]LogAIModule: Creating AISystem for world MobBallTest
+[2016.11.12-01.51.11:307][919]LogPlayLevel: PIE: World Init took: (0.000688s)
+[2016.11.12-01.51.11:307][919]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MobBallTest.MobBallTest to /Game/UEDPIE_0_MobBallTest.MobBallTest (0.002864s)
+[2016.11.12-01.51.11:329][919]LogInit: XAudio2 using 'Speakers (5- Logitech USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.12-01.51.11:335][919]LogInit: FAudioDevice initialized.
+[2016.11.12-01.51.11:366][919]LogWorld: Game class is 'GameMode'
+[2016.11.12-01.51.11:368][919]LogWorld: Bringing World /Game/UEDPIE_0_MobBallTest.MobBallTest up for play (max tick rate 0) at 2016.11.11-17.51.11
+[2016.11.12-01.51.11:369][919]LogWorld: Bringing up level for play took: 0.002468
+[2016.11.12-01.51.11:369][919]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.51.11:369][919]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.51.11:369][919]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.51.11:370][919]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.51.11:370][919]PIE: Info Play in editor start time for /Game/UEDPIE_0_MobBallTest 0.164
+[2016.11.12-01.51.11:370][919]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.51.16:460][529]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.51.16:493][529]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.53.32:014][647]LogRenderer: Reallocating scene render targets to support 1528x900 (Frame:282784).
+[2016.11.12-01.54.17:272][506]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.54.17:272][506]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-01.54.17:272][506]PIE: New page: PIE session: MobBallTest (Nov 11, 2016, 9:54:17 AM)
+[2016.11.12-01.54.17:273][506]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MobBallTest
+[2016.11.12-01.54.17:276][506]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002608s)
+[2016.11.12-01.54.17:276][506]LogAIModule: Creating AISystem for world MobBallTest
+[2016.11.12-01.54.17:276][506]LogPlayLevel: PIE: World Init took: (0.000757s)
+[2016.11.12-01.54.17:277][506]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MobBallTest.MobBallTest to /Game/UEDPIE_0_MobBallTest.MobBallTest (0.003583s)
+[2016.11.12-01.54.17:303][506]LogInit: XAudio2 using 'Speakers (5- Logitech USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.12-01.54.17:309][506]LogInit: FAudioDevice initialized.
+[2016.11.12-01.54.17:336][506]LogWorld: Game class is 'GameMode'
+[2016.11.12-01.54.17:338][506]LogWorld: Bringing World /Game/UEDPIE_0_MobBallTest.MobBallTest up for play (max tick rate 0) at 2016.11.11-17.54.17
+[2016.11.12-01.54.17:339][506]LogWorld: Bringing up level for play took: 0.002593
+[2016.11.12-01.54.17:339][506]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.54.17:339][506]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.54.17:339][506]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.54.17:340][506]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.54.17:340][506]PIE: Info Play in editor start time for /Game/UEDPIE_0_MobBallTest 0.134
+[2016.11.12-01.54.17:340][506]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.55.48:380][393]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.55.48:416][393]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.56.44:332][113]LogSavePackage: Save=70.15ms
+[2016.11.12-01.56.44:332][113]LogSavePackage: Moving '../../../../../../Users/Flor Cristal Espino/Documents/GitHub/MobBall/Saved/MobBallTest_Auto65609B39E477B2289358A8390B4017543.tmp' to '../../../../../../Users/Flor Cristal Espino/Documents/GitHub/MobBall/Saved/Autosaves/Game/MobBallTest_Auto6.umap'
+[2016.11.12-01.56.44:334][113]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Flor Cristal Espino/Documents/GitHub/MobBall/Saved/Autosaves/Game/MobBallTest_Auto6.umap
+[2016.11.12-01.56.44:335][113]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MobBallTest' took 0.088
+[2016.11.12-01.56.44:335][113]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.088
+[2016.11.12-01.56.44:336][113]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Blueprints/Blueprint_Effect_Explosion] ([1] browsable assets)...
+[2016.11.12-01.56.44:336][113]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Blueprints/Blueprint_Effect_Explosion]
+[2016.11.12-01.56.44:345][113]LogSavePackage: Save=6.35ms
+[2016.11.12-01.56.44:345][113]LogSavePackage: Moving '../../../../../../Users/Flor Cristal Espino/Documents/GitHub/MobBall/Saved/Blueprint_Effect_Explosion_Auto60E149755450A8605C6B317B2762B7375.tmp' to '../../../../../../Users/Flor Cristal Espino/Documents/GitHub/MobBall/Saved/Autosaves/Game/StarterContent/Blueprints/Blueprint_Effect_Explosion_Auto6.uasset'
+[2016.11.12-01.56.44:346][113]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Flor Cristal Espino/Documents/GitHub/MobBall/Saved/Autosaves/Game/StarterContent/Blueprints/Blueprint_Effect_Explosion_Auto6.uasset
+[2016.11.12-01.56.44:346][113]LogFileHelpers: Auto-saving content packages took 0.010
+[2016.11.12-01.58.09:192][236]LogCascade: Quitting Cascade. FXSystem=0x0000020BF35A6480
+[2016.11.12-01.58.18:168][282]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Explosion)
+[2016.11.12-01.58.19:068][386]LogEditorViewport: Clicking on Actor (context menu): Emitter (P_Explosion)
+[2016.11.12-01.58.23:299][874]Cmd: DELETE
+[2016.11.12-01.58.23:300][874]Cmd: ACTOR DELETE
+[2016.11.12-01.58.23:300][874]LogEditorActor: Deleted Actor: Emitter
+[2016.11.12-01.58.23:311][874]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2016.11.12-01.58.28:882][533]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.58.28:882][533]BlueprintLog: New page: Pre-Play auto-recompile
+[2016.11.12-01.58.28:882][533]LogPlayLevel: [PlayLevel] Compiling Blueprint_Effect_Explosion before play...
+[2016.11.12-01.58.28:937][533]LogPlayLevel: PlayLevel: Blueprint regeneration took 54 ms (1 blueprints)
+[2016.11.12-01.58.28:937][533]PIE: New page: PIE session: MobBallTest (Nov 11, 2016, 9:58:28 AM)
+[2016.11.12-01.58.28:937][533]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MobBallTest
+[2016.11.12-01.58.28:939][533]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002013s)
+[2016.11.12-01.58.28:940][533]LogAIModule: Creating AISystem for world MobBallTest
+[2016.11.12-01.58.28:940][533]LogPlayLevel: PIE: World Init took: (0.000757s)
+[2016.11.12-01.58.28:940][533]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MobBallTest.MobBallTest to /Game/UEDPIE_0_MobBallTest.MobBallTest (0.002938s)
+[2016.11.12-01.58.28:962][533]LogInit: XAudio2 using 'Speakers (5- Logitech USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.12-01.58.28:969][533]LogInit: FAudioDevice initialized.
+[2016.11.12-01.58.28:996][533]LogWorld: Game class is 'GameMode'
+[2016.11.12-01.58.28:999][533]LogWorld: Bringing World /Game/UEDPIE_0_MobBallTest.MobBallTest up for play (max tick rate 0) at 2016.11.11-17.58.28
+[2016.11.12-01.58.28:999][533]LogWorld: Bringing up level for play took: 0.002770
+[2016.11.12-01.58.29:000][533]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.58.29:000][533]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.58.29:000][533]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.58.29:001][533]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.58.29:001][533]PIE: Info Play in editor start time for /Game/UEDPIE_0_MobBallTest -0.205
+[2016.11.12-01.58.29:001][533]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.58.32:036][897]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.58.32:064][897]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.58.35:306][276]LogEditorViewport: Clicking on Actor (context menu): Blueprint_Effect_Explosion_C (Blueprint_Effect_Explosion)
+[2016.11.12-01.58.36:389][397]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.11.12-01.58.36:857][450]LogEditorViewport: Clicking on Actor (LMB): Blueprint_Effect_Explosion_C (Blueprint_Effect_Explosion)
+[2016.11.12-01.58.37:852][567]LogEditorViewport: Clicking on Actor (context menu): Blueprint_Effect_Explosion_C (Blueprint_Effect_Explosion)
+[2016.11.12-01.58.44:418][320]Cmd: DELETE
+[2016.11.12-01.58.44:418][320]Cmd: ACTOR DELETE
+[2016.11.12-01.58.44:419][320]LogEditorActor: Deleted Actor: Blueprint_Effect_Explosion_C
+[2016.11.12-01.58.44:429][320]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2016.11.12-01.58.48:161][761]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.58.48:161][761]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-01.58.48:161][761]PIE: New page: PIE session: MobBallTest (Nov 11, 2016, 9:58:48 AM)
+[2016.11.12-01.58.48:161][761]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MobBallTest
+[2016.11.12-01.58.48:163][761]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002037s)
+[2016.11.12-01.58.48:163][761]LogAIModule: Creating AISystem for world MobBallTest
+[2016.11.12-01.58.48:164][761]LogPlayLevel: PIE: World Init took: (0.000619s)
+[2016.11.12-01.58.48:164][761]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MobBallTest.MobBallTest to /Game/UEDPIE_0_MobBallTest.MobBallTest (0.002832s)
+[2016.11.12-01.58.48:187][761]LogInit: XAudio2 using 'Speakers (5- Logitech USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.12-01.58.48:193][761]LogInit: FAudioDevice initialized.
+[2016.11.12-01.58.48:224][761]LogWorld: Game class is 'GameMode'
+[2016.11.12-01.58.48:227][761]LogWorld: Bringing World /Game/UEDPIE_0_MobBallTest.MobBallTest up for play (max tick rate 0) at 2016.11.11-17.58.48
+[2016.11.12-01.58.48:227][761]LogWorld: Bringing up level for play took: 0.002351
+[2016.11.12-01.58.48:228][761]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.58.48:228][761]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.58.48:228][761]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.58.48:228][761]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.58.48:228][761]PIE: Info Play in editor start time for /Game/UEDPIE_0_MobBallTest 1.022
+[2016.11.12-01.58.48:228][761]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.59.02:259][444]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.59.02:288][444]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.59.03:117][541]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.59.03:117][541]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-01.59.03:117][541]PIE: New page: PIE session: MobBallTest (Nov 11, 2016, 9:59:03 AM)
+[2016.11.12-01.59.03:117][541]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MobBallTest
+[2016.11.12-01.59.03:119][541]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001879s)
+[2016.11.12-01.59.03:120][541]LogAIModule: Creating AISystem for world MobBallTest
+[2016.11.12-01.59.03:120][541]LogPlayLevel: PIE: World Init took: (0.000837s)
+[2016.11.12-01.59.03:120][541]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MobBallTest.MobBallTest to /Game/UEDPIE_0_MobBallTest.MobBallTest (0.002964s)
+[2016.11.12-01.59.03:148][541]LogInit: XAudio2 using 'Speakers (5- Logitech USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.12-01.59.03:155][541]LogInit: FAudioDevice initialized.
+[2016.11.12-01.59.03:184][541]LogWorld: Game class is 'GameMode'
+[2016.11.12-01.59.03:186][541]LogWorld: Bringing World /Game/UEDPIE_0_MobBallTest.MobBallTest up for play (max tick rate 0) at 2016.11.11-17.59.03
+[2016.11.12-01.59.03:187][541]LogWorld: Bringing up level for play took: 0.002373
+[2016.11.12-01.59.03:187][541]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.59.03:187][541]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.59.03:187][541]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.59.03:188][541]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.59.03:188][541]PIE: Info Play in editor start time for /Game/UEDPIE_0_MobBallTest -0.018
+[2016.11.12-01.59.03:188][541]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.59.13:999][837]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.59.14:031][837]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.59.14:810][928]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.59.14:810][928]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-01.59.14:811][928]PIE: New page: PIE session: MobBallTest (Nov 11, 2016, 9:59:14 AM)
+[2016.11.12-01.59.14:811][928]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MobBallTest
+[2016.11.12-01.59.14:813][928]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002067s)
+[2016.11.12-01.59.14:813][928]LogAIModule: Creating AISystem for world MobBallTest
+[2016.11.12-01.59.14:813][928]LogPlayLevel: PIE: World Init took: (0.000672s)
+[2016.11.12-01.59.14:814][928]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MobBallTest.MobBallTest to /Game/UEDPIE_0_MobBallTest.MobBallTest (0.002940s)
+[2016.11.12-01.59.14:842][928]LogInit: XAudio2 using 'Speakers (5- Logitech USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.12-01.59.14:849][928]LogInit: FAudioDevice initialized.
+[2016.11.12-01.59.14:877][928]LogWorld: Game class is 'GameMode'
+[2016.11.12-01.59.14:881][928]LogWorld: Bringing World /Game/UEDPIE_0_MobBallTest.MobBallTest up for play (max tick rate 0) at 2016.11.11-17.59.14
+[2016.11.12-01.59.14:881][928]LogWorld: Bringing up level for play took: 0.002889
+[2016.11.12-01.59.14:882][928]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.59.14:882][928]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-01.59.14:882][928]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.59.14:883][928]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-01.59.14:883][928]PIE: Info Play in editor start time for /Game/UEDPIE_0_MobBallTest -0.323
+[2016.11.12-01.59.14:883][928]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.59.21:552][727]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-01.59.21:584][727]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MobBallTest.MobBallTest:PersistentLevel' has LevelScriptBlueprint '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest' with GeneratedClass '/Game/MobBallTest.MobBallTest_C' with ClassGeneratedBy '/Game/MobBallTest.MobBallTest:PersistentLevel.MobBallTest'
+[2016.11.12-02.02.22:506][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MobBallTest" FILE="../../../../../../Users/Flor Cristal Espino/Documents/GitHub/MobBall/Content/MobBallTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.11.12-02.02.22:586][277]LogSavePackage: Save=67.22ms
+[2016.11.12-02.02.22:586][277]LogSavePackage: Moving '../../../../../../Users/Flor Cristal Espino/Documents/GitHub/MobBall/Saved/MobBallTest1E255ABE4A66F6AEB80E08A969881DB1.tmp' to '../../../../../../Users/Flor Cristal Espino/Documents/GitHub/MobBall/Content/MobBallTest.umap'
+[2016.11.12-02.02.22:588][277]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Flor Cristal Espino/Documents/GitHub/MobBall/Content/MobBallTest.umap
+[2016.11.12-02.02.22:598][277]LogFileHelpers: Saving map 'MobBallTest' took 0.196
+[2016.11.12-02.02.22:609][277]LogSavePackage: Save=6.25ms
+[2016.11.12-02.02.22:609][277]LogSavePackage: Moving '../../../../../../Users/Flor Cristal Espino/Documents/GitHub/MobBall/Saved/Blueprint_Effect_ExplosionE7A71A0F4FED31516F3904B94E7E7080.tmp' to '../../../../../../Users/Flor Cristal Espino/Documents/GitHub/MobBall/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset'
+[2016.11.12-02.02.22:611][277]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Flor Cristal Espino/Documents/GitHub/MobBall/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset
+[2016.11.12-02.02.22:792][278]Cmd: QUIT_EDITOR
+[2016.11.12-02.02.23:449][278]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.12-02.02.23:465][278]LogExit: Preparing to exit.
+[2016.11.12-02.02.24:145][278]LogDirectoryWatcher: A directory notification for 'C:/Users/Flor Cristal Espino/Documents/GitHub/MobBall/Content/' was aborted.
+[2016.11.12-02.02.24:170][278]LogExit: Editor shut down
+[2016.11.12-02.02.24:171][278]LogExit: Transaction tracking system shut down
+[2016.11.12-02.02.24:286][278]LogObj: Freed 0b from 0 cluster array pools.
+[2016.11.12-02.02.24:286][278]LogExit: Object subsystem successfully closed.
+[2016.11.12-02.02.24:300][278]LogD3D11RHI: Shutdown
+[2016.11.12-02.02.24:300][278]LogD3D11RHI: CleanupD3DDevice
+[2016.11.12-02.02.24:367][278]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.11.12-02.02.24:387][278]LogModuleManager: Shutting down and abandoning module BlueprintGraph (239)
+[2016.11.12-02.02.24:387][278]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (238)
+[2016.11.12-02.02.24:387][278]LogModuleManager: Shutting down and abandoning module DistCurveEditor (237)
+[2016.11.12-02.02.24:387][278]LogModuleManager: Shutting down and abandoning module Cascade (236)
+[2016.11.12-02.02.24:387][278]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (235)
+[2016.11.12-02.02.24:387][278]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (234)
+[2016.11.12-02.02.24:387][278]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (233)
+[2016.11.12-02.02.24:387][278]LogModuleManager: Shutting down and abandoning module CrashTracker (232)
+[2016.11.12-02.02.24:387][278]LogModuleManager: Shutting down and abandoning module SceneOutliner (231)
+[2016.11.12-02.02.24:387][278]LogModuleManager: Shutting down and abandoning module WidgetCarousel (230)
+[2016.11.12-02.02.24:387][278]LogModuleManager: Shutting down and abandoning module AddContentDialog (229)
+[2016.11.12-02.02.24:387][278]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.13/FeaturePacks/' was aborted.
+[2016.11.12-02.02.24:388][278]LogModuleManager: Shutting down and abandoning module GameplayTags (228)
+[2016.11.12-02.02.24:388][278]LogModuleManager: Shutting down and abandoning module EditorWidgets (227)
+[2016.11.12-02.02.24:388][278]LogModuleManager: Shutting down and abandoning module CollectionManager (226)
+[2016.11.12-02.02.24:388][278]LogDirectoryWatcher: A directory notification for 'C:/Users/Flor Cristal Espino/Documents/GitHub/MobBall/Content/Collections/' was aborted.
+[2016.11.12-02.02.24:388][278]LogDirectoryWatcher: A directory notification for 'C:/Users/Flor Cristal Espino/Documents/GitHub/MobBall/Content/Developers/FlorCristalEspino/Collections/' was aborted.
+[2016.11.12-02.02.24:388][278]LogDirectoryWatcher: A directory notification for 'C:/Users/Flor Cristal Espino/Documents/GitHub/MobBall/Saved/Collections/' was aborted.
+[2016.11.12-02.02.24:388][278]LogModuleManager: Shutting down and abandoning module StatsViewer (225)
+[2016.11.12-02.02.24:388][278]LogModuleManager: Shutting down and abandoning module FoliageEdit (224)
+[2016.11.12-02.02.24:388][278]LogModuleManager: Shutting down and abandoning module LandscapeEditor (223)
+[2016.11.12-02.02.24:388][278]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (222)
+[2016.11.12-02.02.24:388][278]LogModuleManager: Shutting down and abandoning module ActorPickerMode (221)
+[2016.11.12-02.02.24:388][278]LogModuleManager: Shutting down and abandoning module GeometryMode (220)
+[2016.11.12-02.02.24:388][278]LogModuleManager: Shutting down and abandoning module TextureAlignMode (219)
+[2016.11.12-02.02.24:388][278]LogModuleManager: Shutting down and abandoning module BspMode (218)
+[2016.11.12-02.02.24:388][278]LogModuleManager: Shutting down and abandoning module HardwareSurvey (217)
+[2016.11.12-02.02.24:388][278]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (216)
+[2016.11.12-02.02.24:388][278]LogModuleManager: Shutting down and abandoning module SequenceRecorder (215)
+[2016.11.12-02.02.24:388][278]LogModuleManager: Shutting down and abandoning module AutomationWorker (214)
+[2016.11.12-02.02.24:388][278]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (213)
+[2016.11.12-02.02.24:388][278]LogModuleManager: Shutting down and abandoning module PlacementMode (212)
+[2016.11.12-02.02.24:388][278]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (211)
+[2016.11.12-02.02.24:388][278]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (210)
+[2016.11.12-02.02.24:388][278]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (209)
+[2016.11.12-02.02.24:388][278]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (208)
+[2016.11.12-02.02.24:388][278]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (207)
+[2016.11.12-02.02.24:388][278]LogModuleManager: Shutting down and abandoning module Media (206)
+[2016.11.12-02.02.24:388][278]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (205)
+[2016.11.12-02.02.24:388][278]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (204)
+[2016.11.12-02.02.24:388][278]LogModuleManager: Shutting down and abandoning module CharacterAI (203)
+[2016.11.12-02.02.24:388][278]LogModuleManager: Shutting down and abandoning module SmartSnapping (202)
+[2016.11.12-02.02.24:388][278]LogModuleManager: Shutting down and abandoning module SessionServices (201)
+[2016.11.12-02.02.24:388][278]LogModuleManager: Shutting down and abandoning module ViewportSnapping (200)
+[2016.11.12-02.02.24:388][278]LogModuleManager: Shutting down and abandoning module ViewportInteraction (199)
+[2016.11.12-02.02.24:388][278]LogModuleManager: Shutting down and abandoning module LogVisualizer (198)
+[2016.11.12-02.02.24:388][278]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (197)
+[2016.11.12-02.02.24:388][278]LogModuleManager: Shutting down and abandoning module IntroTutorials (196)
+[2016.11.12-02.02.24:388][278]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (195)
+[2016.11.12-02.02.24:388][278]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (194)
+[2016.11.12-02.02.24:388][278]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (193)
+[2016.11.12-02.02.24:388][278]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (192)
+[2016.11.12-02.02.25:047][278]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (191)
+[2016.11.12-02.02.25:047][278]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (190)
+[2016.11.12-02.02.25:047][278]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (189)
+[2016.11.12-02.02.25:047][278]LogModuleManager: Shutting down and abandoning module NiagaraEditor (188)
+[2016.11.12-02.02.25:047][278]LogModuleManager: Shutting down and abandoning module MergeActors (187)
+[2016.11.12-02.02.25:047][278]LogModuleManager: Shutting down and abandoning module SizeMap (186)
+[2016.11.12-02.02.25:047][278]LogModuleManager: Shutting down and abandoning module TreeMap (185)
+[2016.11.12-02.02.25:047][278]LogModuleManager: Shutting down and abandoning module ReferenceViewer (184)
+[2016.11.12-02.02.25:047][278]LogModuleManager: Shutting down and abandoning module LocalizationService (183)
+[2016.11.12-02.02.25:047][278]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (182)
+[2016.11.12-02.02.25:047][278]LogModuleManager: Shutting down and abandoning module HardwareTargeting (181)
+[2016.11.12-02.02.25:047][278]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (180)
+[2016.11.12-02.02.25:047][278]LogModuleManager: Shutting down and abandoning module UndoHistory (179)
+[2016.11.12-02.02.25:047][278]LogModuleManager: Shutting down and abandoning module UserFeedback (178)
+[2016.11.12-02.02.25:047][278]LogModuleManager: Shutting down and abandoning module XmlParser (177)
+[2016.11.12-02.02.25:047][278]LogModuleManager: Shutting down and abandoning module Blutility (176)
+[2016.11.12-02.02.25:047][278]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (175)
+[2016.11.12-02.02.25:047][278]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (174)
+[2016.11.12-02.02.25:047][278]LogModuleManager: Shutting down and abandoning module InputBindingEditor (173)
+[2016.11.12-02.02.25:047][278]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (172)
+[2016.11.12-02.02.25:047][278]LogModuleManager: Shutting down and abandoning module SettingsEditor (171)
+[2016.11.12-02.02.25:047][278]LogModuleManager: Shutting down and abandoning module ProjectLauncher (170)
+[2016.11.12-02.02.25:047][278]LogModuleManager: Shutting down and abandoning module SessionFrontend (169)
+[2016.11.12-02.02.25:048][278]LogModuleManager: Shutting down and abandoning module ProfilerClient (168)
+[2016.11.12-02.02.25:048][278]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (167)
+[2016.11.12-02.02.25:048][278]LogModuleManager: Shutting down and abandoning module DeviceManager (166)
+[2016.11.12-02.02.25:092][278]LogModuleManager: Shutting down and abandoning module AutomationController (165)
+[2016.11.12-02.02.25:092][278]LogModuleManager: Shutting down and abandoning module AutomationWindow (164)
+[2016.11.12-02.02.25:092][278]LogModuleManager: Shutting down and abandoning module Layers (163)
+[2016.11.12-02.02.25:092][278]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (162)
+[2016.11.12-02.02.25:092][278]LogModuleManager: Shutting down and abandoning module DetailCustomizations (161)
+[2016.11.12-02.02.25:092][278]LogModuleManager: Shutting down and abandoning module PackagesDialog (160)
+[2016.11.12-02.02.25:092][278]LogModuleManager: Shutting down and abandoning module AnimGraph (159)
+[2016.11.12-02.02.25:092][278]LogModuleManager: Shutting down and abandoning module Persona (158)
+[2016.11.12-02.02.25:092][278]LogModuleManager: Shutting down and abandoning module Kismet (157)
+[2016.11.12-02.02.25:095][278]LogModuleManager: Shutting down and abandoning module GraphEditor (156)
+[2016.11.12-02.02.25:095][278]LogModuleManager: Shutting down and abandoning module ClassViewer (155)
+[2016.11.12-02.02.25:095][278]LogModuleManager: Shutting down and abandoning module Toolbox (154)
+[2016.11.12-02.02.25:095][278]LogModuleManager: Shutting down and abandoning module ModuleUI (153)
+[2016.11.12-02.02.25:095][278]LogModuleManager: Shutting down and abandoning module MovieSceneTools (152)
+[2016.11.12-02.02.25:096][278]LogModuleManager: Shutting down and abandoning module OutputLog (151)
+[2016.11.12-02.02.25:096][278]LogModuleManager: Shutting down and abandoning module GammaUI (150)
+[2016.11.12-02.02.25:096][278]LogModuleManager: Shutting down and abandoning module Documentation (149)
+[2016.11.12-02.02.25:096][278]LogModuleManager: Shutting down and abandoning module Niagara (148)
+[2016.11.12-02.02.25:096][278]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (147)
+[2016.11.12-02.02.25:096][278]LogModuleManager: Shutting down and abandoning module AnalyticsET (146)
+[2016.11.12-02.02.25:096][278]LogModuleManager: Shutting down and abandoning module PortalServices (145)
+[2016.11.12-02.02.25:096][278]LogModuleManager: Shutting down and abandoning module PortalRpc (144)
+[2016.11.12-02.02.25:096][278]LogModuleManager: Shutting down and abandoning module MessagingRpc (143)
+[2016.11.12-02.02.25:096][278]LogModuleManager: Shutting down and abandoning module GameplayDebugger (142)
+[2016.11.12-02.02.25:096][278]LogModuleManager: Shutting down and abandoning module AITestSuite (141)
+[2016.11.12-02.02.25:096][278]LogModuleManager: Shutting down and abandoning module AIModule (140)
+[2016.11.12-02.02.25:096][278]LogModuleManager: Shutting down and abandoning module ProfilerService (139)
+[2016.11.12-02.02.25:106][278]LogModuleManager: Shutting down and abandoning module TaskGraph (138)
+[2016.11.12-02.02.25:106][278]LogModuleManager: Shutting down and abandoning module SlateRemote (137)
+[2016.11.12-02.02.25:106][278]LogModuleManager: Shutting down and abandoning module SteamVRController (136)
+[2016.11.12-02.02.25:106][278]LogModuleManager: Shutting down and abandoning module SteamVR (135)
+[2016.11.12-02.02.25:106][278]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (134)
+[2016.11.12-02.02.25:106][278]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (133)
+[2016.11.12-02.02.25:106][278]LogModuleManager: Shutting down and abandoning module OculusLibrary (132)
+[2016.11.12-02.02.25:106][278]LogModuleManager: Shutting down and abandoning module OculusInput (131)
+[2016.11.12-02.02.25:106][278]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (130)
+[2016.11.12-02.02.25:106][278]LogModuleManager: Shutting down and abandoning module CableComponent (129)
+[2016.11.12-02.02.25:106][278]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (128)
+[2016.11.12-02.02.25:106][278]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (126)
+[2016.11.12-02.02.25:106][278]LogModuleManager: Shutting down and abandoning module HTML5Networking (125)
+[2016.11.12-02.02.25:106][278]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (124)
+[2016.11.12-02.02.25:106][278]LogModuleManager: Shutting down and abandoning module GeometryCache (123)
+[2016.11.12-02.02.25:106][278]LogModuleManager: Shutting down and abandoning module AlembicLibrary (122)
+[2016.11.12-02.02.25:106][278]LogModuleManager: Shutting down and abandoning module AlembicImporter (121)
+[2016.11.12-02.02.25:106][278]LogModuleManager: Shutting down and abandoning module SuperSearch (120)
+[2016.11.12-02.02.25:106][278]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (119)
+[2016.11.12-02.02.25:106][278]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (118)
+[2016.11.12-02.02.25:106][278]LogModuleManager: Shutting down and abandoning module PluginBrowser (117)
+[2016.11.12-02.02.25:106][278]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (116)
+[2016.11.12-02.02.25:106][278]LogModuleManager: Shutting down and abandoning module EpicSurvey (115)
+[2016.11.12-02.02.25:106][278]LogModuleManager: Shutting down and abandoning module DesktopPlatform (114)
+[2016.11.12-02.02.25:107][278]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (113)
+[2016.11.12-02.02.25:107][278]LogModuleManager: Shutting down and abandoning module UObjectPlugin (112)
+[2016.11.12-02.02.25:107][278]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (111)
+[2016.11.12-02.02.25:107][278]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (110)
+[2016.11.12-02.02.25:107][278]LogModuleManager: Shutting down and abandoning module SourceControl (109)
+[2016.11.12-02.02.25:107][278]LogModuleManager: Shutting down and abandoning module GitSourceControl (108)
+[2016.11.12-02.02.25:107][278]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (107)
+[2016.11.12-02.02.25:107][278]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (106)
+[2016.11.12-02.02.25:107][278]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (105)
+[2016.11.12-02.02.25:107][278]LogModuleManager: Shutting down and abandoning module MeshPaint (104)
+[2016.11.12-02.02.25:107][278]LogModuleManager: Shutting down and abandoning module FbxAutomationBuilderModule (103)
+[2016.11.12-02.02.25:107][278]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (102)
+[2016.11.12-02.02.25:107][278]LogModuleManager: Shutting down and abandoning module HotReload (101)
+[2016.11.12-02.02.25:107][278]LogModuleManager: Shutting down and abandoning module MainFrame (100)
+[2016.11.12-02.02.25:107][278]LogModuleManager: Shutting down and abandoning module LevelEditor (99)
+[2016.11.12-02.02.25:108][278]LogModuleManager: Shutting down and abandoning module ContentBrowser (98)
+[2016.11.12-02.02.25:109][278]LogModuleManager: Shutting down and abandoning module Paper2DEditor (97)
+[2016.11.12-02.02.25:109][278]LogModuleManager: Shutting down and abandoning module UdpMessaging (96)
+[2016.11.12-02.02.25:210][278]LogModuleManager: Shutting down and abandoning module TcpMessaging (95)
+[2016.11.12-02.02.25:311][278]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (94)
+[2016.11.12-02.02.25:311][278]LogModuleManager: Shutting down and abandoning module Paper2D (93)
+[2016.11.12-02.02.25:311][278]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (92)
+[2016.11.12-02.02.25:311][278]LogModuleManager: Shutting down and abandoning module WmfMedia (91)
+[2016.11.12-02.02.25:311][278]LogModuleManager: Shutting down and abandoning module MediaAssets (90)
+[2016.11.12-02.02.25:311][278]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (89)
+[2016.11.12-02.02.25:311][278]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (88)
+[2016.11.12-02.02.25:311][278]LogModuleManager: Shutting down and abandoning module VREditor (87)
+[2016.11.12-02.02.25:311][278]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (86)
+[2016.11.12-02.02.25:311][278]LogModuleManager: Shutting down and abandoning module PropertyEditor (85)
+[2016.11.12-02.02.25:311][278]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (84)
+[2016.11.12-02.02.25:311][278]LogModuleManager: Shutting down and abandoning module FunctionalTesting (83)
+[2016.11.12-02.02.25:311][278]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (82)
+[2016.11.12-02.02.25:311][278]LogModuleManager: Shutting down and abandoning module Sequencer (81)
+[2016.11.12-02.02.25:311][278]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (80)
+[2016.11.12-02.02.25:311][278]LogModuleManager: Shutting down and abandoning module MessageLog (79)
+[2016.11.12-02.02.25:311][278]LogModuleManager: Shutting down and abandoning module AssetTools (78)
+[2016.11.12-02.02.25:311][278]LogModuleManager: Shutting down and abandoning module UMGEditor (77)
+[2016.11.12-02.02.25:311][278]LogModuleManager: Shutting down and abandoning module UMG (76)
+[2016.11.12-02.02.25:311][278]LogModuleManager: Shutting down and abandoning module SlateReflector (75)
+[2016.11.12-02.02.25:311][278]LogModuleManager: Shutting down and abandoning module Slate (74)
+[2016.11.12-02.02.25:311][278]LogModuleManager: Shutting down and abandoning module EditorStyle (73)
+[2016.11.12-02.02.25:313][278]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (72)
+[2016.11.12-02.02.25:313][278]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (71)
+[2016.11.12-02.02.25:313][278]LogModuleManager: Shutting down and abandoning module XAudio2 (70)
+[2016.11.12-02.02.25:313][278]LogModuleManager: Shutting down and abandoning module Networking (68)
+[2016.11.12-02.02.25:313][278]LogModuleManager: Shutting down and abandoning module Core (67)
+[2016.11.12-02.02.25:313][278]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (66)
+[2016.11.12-02.02.25:313][278]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2016.11.12-02.02.25:313][278]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Flor Cristal Espino/Documents/GitHub/MobBall/Content/' was aborted.
+[2016.11.12-02.02.25:314][278]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2016.11.12-02.02.25:314][278]LogModuleManager: Shutting down and abandoning module AssetRegistry (65)
+[2016.11.12-02.02.25:460][278]LogModuleManager: Shutting down and abandoning module KismetCompiler (64)
+[2016.11.12-02.02.25:460][278]LogModuleManager: Shutting down and abandoning module PhysXFormats (63)
+[2016.11.12-02.02.25:460][278]LogModuleManager: Shutting down and abandoning module MeshUtilities (62)
+[2016.11.12-02.02.25:460][278]LogModuleManager: Shutting down and abandoning module DerivedDataCache (61)
+[2016.11.12-02.02.25:539][278]LogDerivedDataCache: Shutdown
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (60)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (59)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (58)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (57)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (56)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (55)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (54)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (53)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module ImageWrapper (52)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (51)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (50)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (49)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (48)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (47)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (46)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (45)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (44)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (43)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (42)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module Messaging (41)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (40)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (39)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (38)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (37)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (36)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (35)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (34)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (33)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (32)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (31)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (30)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (29)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (28)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (27)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module GearVR (21)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (20)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (19)
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (17)
+[2016.11.12-02.02.25:539][278]LogOnline:Display: Unloading online subsystem: NULL
+[2016.11.12-02.02.25:539][278]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2016.11.12-02.02.25:540][278]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2016.11.12-02.02.25:540][278]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7CE37951-4E81-BA60-7A1A-41A908374488%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.13.2-3172292%2B%2B%2BUE4%2BRelease-4.13&UserID=8f14cd8a4104615e935f52938369312f%7Ce942df0ffc6e4c148f30631c3f040b71%7C19c5fffe-115d-46a1-bb4b-d61ff159e01b&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2016.11.12-02.02.25:545][278]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2016.11.12-02.02.25:545][278]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.11.12-02.02.25:545][278]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.11.12-02.02.25:545][278]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.11.12-02.02.25:545][278]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.11.12-02.02.25:546][278]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.11.12-02.02.25:546][278]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.11.12-02.02.25:546][278]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.11.12-02.02.25:546][278]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.11.12-02.02.25:546][278]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.11.12-02.02.25:547][278]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.11.12-02.02.25:547][278]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.11.12-02.02.25:547][278]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.11.12-02.02.25:547][278]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.11.12-02.02.25:547][278]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.11.12-02.02.25:548][278]LogExit: Exiting.
+[2016.11.12-02.02.25:554][278]Log file closed, 11/11/16 18:02:25
